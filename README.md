@@ -49,14 +49,14 @@ The inspiration for this project came from the need for enhanced security and ef
 ## Core Algorithms
 
 The core algorithm involves vehicle detection and gate control. When an ultrasonic sensor detects a vehicle, it triggers the servo motor to open the gate and logs this event in Firebase RTDB. If no vehicle is detected, the gate remains closed.
-Process, Collaboration, and Timeline
-Process
+## Process, Collaboration, and Timeline
+### Process
 Initial research and planning.
 Hardware setup and testing.
 Software development and integration.
 Testing and debugging.
 Final deployment.
-Collaboration
+### Collaboration
 Regular team meetings
 Task assignments based on expertise
 Continuous feedback and iteration
