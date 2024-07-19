@@ -1,0 +1,43 @@
+/* src/Pages/Dashboard.css */
+.dashboard {
+  text-align: center;
+  padding: 20px;
+}
+
+.chart-container {
+  width: 80%;
+  margin: auto;
+}
+
+.table-container {
+  width: 80%;
+  margin: 20px auto;
+  text-align: left;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+th, td {
+  padding: 10px;
+}
+
+h2 {
+  margin-top: 20px;
+}
+
+
+@media (max-width: 600px) {
+  .chart-container {
+    width: 40%; 
+  }
+  .table-container{
+    width: 50%;
+  }
+}

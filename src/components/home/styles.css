@@ -1,0 +1,14 @@
+.user-text {
+    background: linear-gradient(90deg, #ff7e5f, #feb47b, #ff7e5f);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+    display: inline-block;
+    animation: gradient-text 3s ease-in-out infinite;
+  }
+  
+  @keyframes gradient-text {
+    0% { background-position: 0%; }
+    100% { background-position: 100%; }
+  }
+  
