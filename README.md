@@ -17,7 +17,6 @@ This project involves the development of an ESP32-based IoT smart gate system ut
 9. [Live Demo](#live-demo)
 10. [Q&A](#qa)
 11. [Future Directions](#future-directions)
-12. [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
